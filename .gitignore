@@ -15,7 +15,10 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+gradlew
+gradlew.bat
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
 ### IntelliJ IDEA ###
 .idea
 *.iws
